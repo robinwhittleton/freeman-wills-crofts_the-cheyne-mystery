@@ -57,6 +57,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Freeman_Wills_Crofts</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n86862728</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Salomon van Abbé</dc:contributor>
 		<meta property="file-as" refines="#artist">van Abbé, Salomon</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Salomon_van_Abb%C3%A9</meta>
@@ -65,6 +66,7 @@
 		<dc:contributor id="transcriber-1">Brian Raiter</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Brian, Raiter</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">wat</meta>
 		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
 		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
 		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
