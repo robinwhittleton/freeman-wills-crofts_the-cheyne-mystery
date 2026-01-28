@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-15.xhtml">
+		<ignore>
+			<code>t-010</code>
+			<reason>Currency, not time.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-16.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>This is the last letter from a badly-pressed stamp, not a grapheme.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-20.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>The text treats this as a single name, not a definitive and a name. (It’s also always used with “the” before.)</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
