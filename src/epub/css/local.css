@@ -28,3 +28,22 @@ figure.full-page{
 	break-after: page;
 	break-before: page;
 }
+
+/* letters */
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
+.telegram{
+	font-variant: all-small-caps;
+}
+/* end letters */
+
+
+#chapter-15 ul{
+	list-style: none;
+}
+
+#chapter-15 > blockquote:last-of-type > p{
+	text-align: center;
+}
