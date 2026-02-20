@@ -44,14 +44,15 @@
 		<meta id="collection-1" property="belongs-to-collection">Inspector French</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A man is drugged and then burgled for something he doesn’t know he has.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Maxwell Cheyne, a young but well-off country gentleman, is approached after his lunch at a hotel in Plymouth by a gentleman with a proposition. The meeting however is cut short after Cheyne passes out, and on waking finds not only his pockets rifled but a message alerting him that his house has been burgled. The strange thing though is that nothing he’s aware of seems to be missing: no jewellery or valuables have been taken and all his papers remain in place; the private detective hired to investigate is also stumped. It’s only when another attempt is made by the perpetrators that a trail is able to be followed; a trail that leads Cheyne to eventually seek the help of Scotland Yard and Inspector French.&lt;/p&gt;
+			&lt;p&gt;This second &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt; novel from &lt;a href="https://standardebooks.org/ebooks/freeman-wills-crofts"&gt;Freeman Wills Crofts&lt;/a&gt; once again pits the Inspector against an underhand plot that stretches out from England and into mainland Europe. Despite not arriving until the second half of the book, French quickly gets a grasp of the situation and starts reeling in the perpetrators through methodical analysis of the available evidence.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72986</dc:source>
 		<dc:source>https://archive.org/details/cheynemystery00crof</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Due to typogrify not coping with leading ellipses, the partial words on the stamp have been enclosed in quotes.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Cheyne_Mystery</meta>
