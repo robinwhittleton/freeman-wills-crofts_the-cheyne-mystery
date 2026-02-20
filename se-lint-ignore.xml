@@ -6,12 +6,6 @@
 			<reason>Currency, not time.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-16.xhtml">
-		<ignore>
-			<code>y-035</code>
-			<reason>This is the last letter from a badly-pressed stamp, not a grapheme.</reason>
-		</ignore>
-	</file>
 	<file path="chapter-20.xhtml">
 		<ignore>
 			<code>s-023</code>
